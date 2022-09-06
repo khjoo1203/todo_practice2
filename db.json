@@ -1,0 +1,18 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "리액트",
+      "body": "리액트를 공부",
+      "username": "김현주"
+    }
+  ],
+  "comments": [
+    {
+      "todoId": "1",
+      "username": "khjoo",
+      "content": "댓글입니다",
+      "id": 2
+    }
+  ]
+}
